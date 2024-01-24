@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @martaruperez, I´m currently studing a double grade in Computer Network Systems Management and Development of Web Application.
-- 👀 I’m interested in developing
+- 👋 Hi, I’m @martaruperez
 - 🌱 I have notions of HTML, css, SQL, JAVA, JavaScript and PHP
 - 📫 How to reach me:
       --> email: marta_ruperez@yahoo.com
